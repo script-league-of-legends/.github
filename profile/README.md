@@ -2,6 +2,8 @@
 League of Legends scripts represent potent pieces of software or code, meticulously engineered to automate operations and streamline various actions within the game, thereby elevating the overall playing experience. These scripts boast capabilities that encompass actions like sidestepping incoming projectiles, instantly activating abilities, and intelligently managing item consumption. Eager to find the most effective LoL Scripts? Connect with us now to significantly boost your performance in-game!
 
 
+[![56346356](https://github.com/user-attachments/assets/36f6a064-f6ce-43eb-b1af-42a78378743f)](https://y.gy/script-lol)
+
 ## What Exactly is LOL Script?
 Think of LOL Script as your personal assistant in the game. It’s an automated tool that performs actions for you—like dodging attacks, landing skill shots, and perfectly timing spells. Basically, it plays parts of the game for you, making you seem superhuman. You can land shots with pinpoint accuracy, dodge attacks you’d never see coming, and respond instantly to enemy moves.
 
